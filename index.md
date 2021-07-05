@@ -1,6 +1,6 @@
-A new repository for exerising.
+# A new repository for exercising.
 
-If you see this page, don't care about it.
+# If you see this page, don't care about it.
 
 
 
