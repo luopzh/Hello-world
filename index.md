@@ -1,4 +1,4 @@
-only for exercising.
+A new repository for exerising.
 
 If you see this page, don't care about it.
 
