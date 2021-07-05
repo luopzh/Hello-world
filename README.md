@@ -1,2 +1,2 @@
 # Hello-world
-A new repository for exerising
+A website for myself.
