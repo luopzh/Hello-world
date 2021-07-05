@@ -1,2 +1,3 @@
-# exc
-A website for myself.
+only for exercising.
+
+If you see this page, don't care about it.
