@@ -6,4 +6,3 @@
 
 If you want to search something, please click ->[Baidu](https://www.baidu.com)
 
-![cat](tig.jpg)
