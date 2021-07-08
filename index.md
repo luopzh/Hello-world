@@ -12,4 +12,5 @@
 
 <img src="ksmkxxq.jpg" alt="ksmkxxq" style="zoom:50%;"/>
 
-steam在国区如何赠送好友礼物？
+ [steam在国区如何赠送好友礼物？](https://luopzh.github.io/Luopzh/SteamGiftINChina) 
+
