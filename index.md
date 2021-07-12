@@ -12,5 +12,7 @@
 
 <img src="ksmkxxq.jpg" alt="ksmkxxq" style="zoom:50%;"/>
 
- [steam在国区如何赠送好友礼物？](https://luopzh.github.io/Luopzh/SteamGiftINChina) 
+ [steam在国区如何赠送好友礼物？](https://luopzh.github.io/Luopzh/pages/SteamGiftINChina) 
+
+[AI能力融合训练营-人工智能](https://luopzh.github.io/Luopzh/pages/ALIai) 
 
